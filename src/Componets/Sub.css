@@ -1,0 +1,16 @@
+.m1{
+    /* margin-top:  10px;*/ 
+    margin-right: 1%; 
+    padding: 30px;
+    border: 2px solid black;
+    height: 500px;
+    width: 49%;
+    font-style: 'cursive';
+    border-radius: 20px;
+    color: rgb(173, 68, 173);
+    float: right;
+}
+#bell{
+    height: 150px;
+    width: 150px;
+}

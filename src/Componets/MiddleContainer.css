@@ -1,0 +1,16 @@
+#con1{
+    border-radius: 30px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 51%);
+    height: 878px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#avatar{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-position: top center;
+    border-radius: 50%;
+    border: 2px solid #ffff; 
+}
